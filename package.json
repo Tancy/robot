@@ -1,0 +1,19 @@
+{
+  "name": "weex-robot",
+  "version": "0.0.1",
+  "description": "weex robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "weexrobot": "./index.js"
+  },
+  "author": "tancy",
+  "license": "ISC",
+  "dependencies": {
+    "dingtalk-robot": "1.0.3",
+    "inquirer": "3.1.1",
+    "express": "^4.15.3"
+  }
+}
